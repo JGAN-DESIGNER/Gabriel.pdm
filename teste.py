@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.image("teste.png")
-st.write("Site Dinaldo Jorge")
-st.link_button("Acessar", "https://www.dinaldo.com.br")
+st.image("fotogabriel.jpeg")
+st.write("Gabriel Alves")
+st.link_button("Acessar", "https://www.instagram.com/jgan.designer/")
